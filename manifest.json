@@ -1,0 +1,11 @@
+{
+    "name": "Colour Picker from Image",
+    "version": "1.0.0",
+    "description": "copy a colour from an image",
+    "manifest_version": 3,
+    "author": "Scott Forber",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Colour Picker from Image"
+    }
+}
